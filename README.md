@@ -1,5 +1,5 @@
 # Landing-Page
-CodSoft internship
+CodSoft internship task-2
 
 COMPANY:CODSOFT
 
