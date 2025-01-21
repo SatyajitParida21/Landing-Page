@@ -21,3 +21,6 @@ A landing page serves as the initial point of contact for visitors to a website.
 
 For your project, the landing page represents CodSoft’s identity and objectives. It should effectively communicate the company's mission, services, and values while maintaining a visually appealing design that engages users.
 
+#output
+![Image](https://github.com/user-attachments/assets/1c1abb64-4077-48f2-84c1-d4810d57c7af)
+
